@@ -1,0 +1,8 @@
+﻿  AI.cpp
+c:\users\vuk\source\repos\tictactoe_ai\tictactoe_ai\ai.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\vuk\source\repos\tictactoe_ai\tictactoe_ai\ai.cpp(75): warning C4018: '<': signed/unsigned mismatch
+  Board.cpp
+  main.cpp
+  TicTacToeGame.cpp
+  Generating Code...
+  TicTacToe_AI.vcxproj -> C:\Users\Vuk\source\repos\TicTacToe_AI\Debug\TicTacToe_AI.exe

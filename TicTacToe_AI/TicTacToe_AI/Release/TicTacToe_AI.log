@@ -1,0 +1,10 @@
+﻿  AI.cpp
+AI.cpp(64): warning C4018: '<': signed/unsigned mismatch
+AI.cpp(75): warning C4018: '<': signed/unsigned mismatch
+  Board.cpp
+  main.cpp
+  TicTacToeGame.cpp
+  Generating code
+  All 101 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TicTacToe_AI.vcxproj -> C:\Users\Vuk\source\repos\TicTacToe_AI\Release\TicTacToe_AI.exe
