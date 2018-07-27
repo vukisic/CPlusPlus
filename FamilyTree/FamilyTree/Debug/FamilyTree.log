@@ -1,0 +1,6 @@
+﻿  FamilyTree.cpp
+c:\users\vuk\source\repos\cplusplus\familytree\familytree\familytree.cpp(112): warning C4101: 'temp': unreferenced local variable
+  main.cpp
+c:\users\vuk\source\repos\cplusplus\familytree\familytree\main.cpp(10): warning C4101: 'c': unreferenced local variable
+  Generating Code...
+  FamilyTree.vcxproj -> C:\Users\vuk\source\repos\CPlusPlus\FamilyTree\Debug\FamilyTree.exe
