@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\vuk\source\repos\cplusplus\encryption\encryption\encryptionalg.hpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\vuk\source\repos\cplusplus\encryption\encryption\encryptionalg.hpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\vuk\source\repos\cplusplus\encryption\encryption\encryptionalg.hpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\vuk\source\repos\cplusplus\encryption\encryption\encryptionalg.hpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\vuk\source\repos\cplusplus\encryption\encryption\encryptionalg.hpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\vuk\source\repos\cplusplus\encryption\encryption\encryptionalg.hpp(206): warning C4018: '<': signed/unsigned mismatch
+  Encryption.vcxproj -> C:\Users\vuk\source\repos\CPlusPlus\Encryption\Debug\Encryption.exe
