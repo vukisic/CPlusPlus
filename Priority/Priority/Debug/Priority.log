@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\vuk\source\repos\cplusplus\priority\priority\main.cpp(53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Priority.vcxproj -> C:\Users\vuk\source\repos\CPlusPlus\Priority\Debug\Priority.exe
